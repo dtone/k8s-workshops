@@ -1,6 +1,6 @@
 # First Kubernetes workshop 2019-10-03
 
-Recording is available on [![YouTube](https://img.youtube.com/vi/wnT4cqc2KsY/maxresdefault.jpg)](https://youtu.be/wnT4cqc2KsY)
+Recording is available on [YouTube](https://youtu.be/wnT4cqc2KsY): [![Watch now!](https://img.youtube.com/vi/wnT4cqc2KsY/maxresdefault.jpg)](https://youtu.be/wnT4cqc2KsY)
 
 ## Topics covered
 
