@@ -1,4 +1,8 @@
-## ACS/CZ K8s workshop discussion points
+# First Kubernetes workshop 2019-10-03
+
+Recording is available on [![YouTube](https://img.youtube.com/vi/wnT4cqc2KsY/maxresdefault.jpg)](https://youtu.be/wnT4cqc2KsY)
+
+## Topics covered
 
  * Advanced Scheduling - Taints, Tolerations, Node Affinity, Volume Affinity
    * Node labels
@@ -18,7 +22,7 @@
 
  * Using Secrets and configmaps for configuration settings
 
-#### Links used during the session
+## Links used during the session
 
  * https://kubernetes.io/docs/
  * https://kubernetes.io/docs/concepts/configuration/assign-pod-node/
